@@ -2,8 +2,8 @@
 <colors>
     <color name="black">ff111111</color>
     <color name="background">ff1a1a1a</color>
-    <color name="highlight">ffFFFF00</color>
-    <color name="shighlight">ffF0E93C</color>
+    <color name="highlight">ffad9e1e</color>
+    <color name="shighlight">fff0ec3c</color>
     <color name="overlay">44ffffff</color>
     <color name="textActive">fff0f0f0</color>
     <color name="textDisabled">ff757575</color>
